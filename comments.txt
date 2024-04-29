@@ -1,0 +1,170 @@
+2D,3D,4D,5D,6D, Straight Flush::You returned: Flush
+3H,4H,5H,6H,7H, Straight Flush::You returned: Flush
+4D,5D,6D,7D,8D, Straight Flush::You returned: Flush
+5C,6C,7C,8C,9C, Straight Flush::You returned: Flush
+6D,7D,8D,9D,10D, Straight Flush::You returned: Flush
+7S,8S,9S,10S,11S, Straight Flush::You returned: Flush
+8H,9H,10H,11H,12H, Straight Flush::You returned: Flush
+2C,3C,3D,3H,4S, 3ok::You returned: Pair
+2S,3C,3S,3D,4H, 3ok::You returned: Pair
+5S,6C,6D,6S,7H, 3ok::You returned: Pair
+2D,3S,3D,3H,4C, 3ok::You returned: Pair
+3H,4S,4C,4H,5D, 3ok::You returned: Pair
+9D,10S,10H,10D,JC, 3ok::You returned: Pair
+3C,4D,4C,4H,5S, 3ok::You returned: Pair
+QS,KC,KS,KD,AH, 3ok::You returned: Pair
+2D,2H,3C,AS,AH, Two Pair::You returned: Pair
+2C,2S,3H,AC,AD, Two Pair::You returned: Pair
+2H,3H,4H,5H,6H, Straight Flush::You returned: Flush
+3D,4D,5D,6D,7D, Straight Flush::You returned: Flush
+4S,5S,6S,7S,8S, Straight Flush::You returned: Flush
+5S,6S,7S,8S,9S, Straight Flush::You returned: Flush
+6H,7H,8H,9H,10H, Straight Flush::You returned: Flush
+7C,8C,9C,10C,11C, Straight Flush::You returned: Flush
+8S,9S,10S,11S,12S, Straight Flush::You returned: Flush
+10C,JD,JC,JH,QS, 3ok::You returned: Pair
+9D,10H,10S,10D,JC, 3ok::You returned: Pair
+2H,2D,2S,3C,AD, 3ok::You returned: 3 of a kind
+10H,JC,JH,JS,QD, 3ok::You returned: Pair
+2H,2D,2S,3C,AD, 3ok::You returned: 3 of a kind
+2S,3C,3S,3D,4H, 3ok::You returned: Pair
+2S,KC,AC,AD,AH, 3ok::You returned: 3 of a kind
+QS,KD,KS,KC,AH, 3ok::You returned: Pair
+2H,3H,4H,5H,6H, Straight Flush::You returned: Flush
+3S,4S,5S,6S,7S, Straight Flush::You returned: Flush
+4C,5C,6C,7C,8C, Straight Flush::You returned: Flush
+5D,6D,7D,8D,9D, Straight Flush::You returned: Flush
+6D,7D,8D,9D,10D, Straight Flush::You returned: Flush
+7C,8C,9C,10C,11C, Straight Flush::You returned: Flush
+8S,9S,10S,11S,12S, Straight Flush::You returned: Flush
+JH,QC,QS,QH,KD, 3ok::You returned: Pair
+2H,3H,3C,3S,4D, 3ok::You returned: Pair
+3C,4C,4H,4D,5S, 3ok::You returned: Pair
+3D,4H,4S,4D,5C, 3ok::You returned: Pair
+9C,10D,10C,10H,JS, 3ok::You returned: Pair
+9H,10S,10C,10H,JD, 3ok::You returned: Pair
+QC,KD,KC,KH,AS, 3ok::You returned: Pair
+7S,8D,8S,8C,9H, 3ok::You returned: Pair
+2C,2S,3H,AD,AC, Two Pair::You returned: Pair
+2H,2D,3C,AS,AH, Two Pair::You returned: Pair
+2D,3D,4D,5D,6D, Straight Flush::You returned: Flush
+3C,4C,5C,6C,7C, Straight Flush::You returned: Flush
+4C,5C,6C,7C,8C, Straight Flush::You returned: Flush
+5C,6C,7C,8C,9C, Straight Flush::You returned: Flush
+6D,7D,8D,9D,10D, Straight Flush::You returned: Flush
+7H,8H,9H,10H,11H, Straight Flush::You returned: Flush
+8C,9C,10C,11C,12C, Straight Flush::You returned: Flush
+10D,JD,JH,JS,QC, 3ok::You returned: Pair
+QS,KS,KC,KD,AH, 3ok::You returned: Pair
+JH,QH,QS,QC,KD, 3ok::You returned: Pair
+QS,KS,KD,KC,AH, 3ok::You returned: Pair
+2S,2C,2H,3D,AH, 3ok::You returned: 3 of a kind
+2H,3C,3H,3S,4D, 3ok::You returned: Pair
+QD,KH,KS,KD,AC, 3ok::You returned: Pair
+5S,6C,6S,6D,7H, 3ok::You returned: Pair
+2S,2H,3D,AC,AS, Two Pair::You returned: Pair
+2H,2S,3D,AC,AS, Two Pair::You returned: Pair
+2H,3H,4H,5H,6H, Straight Flush::You returned: Flush
+3C,4C,5C,6C,7C, Straight Flush::You returned: Flush
+4C,5C,6C,7C,8C, Straight Flush::You returned: Flush
+5C,6C,7C,8C,9C, Straight Flush::You returned: Flush
+6H,7H,8H,9H,10H, Straight Flush::You returned: Flush
+7D,8D,9D,10D,11D, Straight Flush::You returned: Flush
+8H,9H,10H,11H,12H, Straight Flush::You returned: Flush
+JD,QS,QD,QH,KC, 3ok::You returned: Pair
+QH,KC,KH,KS,AD, 3ok::You returned: Pair
+JC,QC,QD,QH,KS, 3ok::You returned: Pair
+3H,4H,4S,4C,5D, 3ok::You returned: Pair
+JH,QH,QC,QS,KD, 3ok::You returned: Pair
+4C,5D,5C,5H,6S, 3ok::You returned: Pair
+2H,3H,3S,3C,4D, 3ok::You returned: Pair
+10S,JC,JD,JS,QH, 3ok::You returned: Pair
+2D,2C,3S,AD,AH, Two Pair::You returned: Pair
+2H,3H,4H,5H,6H, Straight Flush::You returned: Flush
+3H,4H,5H,6H,7H, Straight Flush::You returned: Flush
+4D,5D,6D,7D,8D, Straight Flush::You returned: Flush
+5D,6D,7D,8D,9D, Straight Flush::You returned: Flush
+6H,7H,8H,9H,10H, Straight Flush::You returned: Flush
+7S,8S,9S,10S,11S, Straight Flush::You returned: Flush
+8S,9S,10S,11S,12S, Straight Flush::You returned: Flush
+5S,6S,6D,6C,7H, 3ok::You returned: Pair
+2S,3S,3D,3C,4H, 3ok::You returned: Pair
+2S,KC,AC,AH,AD, 3ok::You returned: 3 of a kind
+JS,QD,QC,QS,KH, 3ok::You returned: Pair
+10H,JS,JC,JH,QD, 3ok::You returned: Pair
+4H,5H,5C,5S,6D, 3ok::You returned: Pair
+6C,7C,7D,7H,8S, 3ok::You returned: Pair
+5H,6H,6S,6C,7D, 3ok::You returned: Pair
+2D,2H,3C,AS,AH, Two Pair::You returned: Pair
+2D,3D,4D,5D,6D, Straight Flush::You returned: Flush
+3S,4S,5S,6S,7S, Straight Flush::You returned: Flush
+4H,5H,6H,7H,8H, Straight Flush::You returned: Flush
+5D,6D,7D,8D,9D, Straight Flush::You returned: Flush
+6D,7D,8D,9D,10D, Straight Flush::You returned: Flush
+7C,8C,9C,10C,11C, Straight Flush::You returned: Flush
+8D,9D,10D,11D,12D, Straight Flush::You returned: Flush
+10D,JD,JS,JH,QC, 3ok::You returned: Pair
+2C,2D,2H,3S,AC, 3ok::You returned: 3 of a kind
+3D,4S,4H,4D,5C, 3ok::You returned: Pair
+JH,QS,QH,QC,KD, 3ok::You returned: Pair
+5S,6S,6C,6D,7H, 3ok::You returned: Pair
+10C,JH,JC,JD,QS, 3ok::You returned: Pair
+2D,3S,3H,3D,4C, 3ok::You returned: Pair
+9D,10S,10D,10H,JC, 3ok::You returned: Pair
+2S,2C,3H,AC,AD, Two Pair::You returned: Pair
+2H,3H,4H,5H,6H, Straight Flush::You returned: Flush
+3S,4S,5S,6S,7S, Straight Flush::You returned: Flush
+4S,5S,6S,7S,8S, Straight Flush::You returned: Flush
+5S,6S,7S,8S,9S, Straight Flush::You returned: Flush
+6C,7C,8C,9C,10C, Straight Flush::You returned: Flush
+7C,8C,9C,10C,11C, Straight Flush::You returned: Flush
+8D,9D,10D,11D,12D, Straight Flush::You returned: Flush
+9D,10D,10H,10S,JC, 3ok::You returned: Pair
+6C,7D,7C,7H,8S, 3ok::You returned: Pair
+3C,4D,4H,4C,5S, 3ok::You returned: Pair
+3H,4S,4C,4H,5D, 3ok::You returned: Pair
+2D,3H,3S,3D,4C, 3ok::You returned: Pair
+JD,QH,QD,QS,KC, 3ok::You returned: Pair
+QC,KH,KD,KC,AS, 3ok::You returned: Pair
+10D,JS,JD,JH,QC, 3ok::You returned: Pair
+2H,2D,3C,AS,AH, Two Pair::You returned: Pair
+2H,3H,4H,5H,6H, Straight Flush::You returned: Flush
+3S,4S,5S,6S,7S, Straight Flush::You returned: Flush
+4C,5C,6C,7C,8C, Straight Flush::You returned: Flush
+5H,6H,7H,8H,9H, Straight Flush::You returned: Flush
+6S,7S,8S,9S,10S, Straight Flush::You returned: Flush
+7H,8H,9H,10H,11H, Straight Flush::You returned: Flush
+8S,9S,10S,11S,12S, Straight Flush::You returned: Flush
+8C,9D,9C,9H,10S, 3ok::You returned: Pair
+2D,2S,2C,3H,AS, 3ok::You returned: 3 of a kind
+10D,JH,JD,JS,QC, 3ok::You returned: Pair
+5D,6D,6S,6H,7C, 3ok::You returned: Pair
+2C,3D,3H,3C,4S, 3ok::You returned: Pair
+QS,KC,KS,KD,AH, 3ok::You returned: Pair
+2S,3C,3D,3S,4H, 3ok::You returned: Pair
+9C,10D,10C,10H,JS, 3ok::You returned: Pair
+2S,2C,3H,AD,AC, Two Pair::You returned: Pair
+2C,3C,4C,5C,6C, Straight Flush::You returned: Flush
+3S,4S,5S,6S,7S, Straight Flush::You returned: Flush
+4S,5S,6S,7S,8S, Straight Flush::You returned: Flush
+5S,6S,7S,8S,9S, Straight Flush::You returned: Flush
+6C,7C,8C,9C,10C, Straight Flush::You returned: Flush
+7S,8S,9S,10S,11S, Straight Flush::You returned: Flush
+8S,9S,10S,11S,12S, Straight Flush::You returned: Flush
+QC,KH,KD,KC,AS, 3ok::You returned: Pair
+JS,QD,QC,QS,KH, 3ok::You returned: Pair
+5C,6H,6D,6C,7S, 3ok::You returned: Pair
+2D,KH,AC,AS,AH, 3ok::You returned: 3 of a kind
+4S,5D,5C,5S,6H, 3ok::You returned: Pair
+3S,4D,4C,4S,5H, 3ok::You returned: Pair
+5S,6D,6S,6C,7H, 3ok::You returned: Pair
+5D,6D,6S,6H,7C, 3ok::You returned: Pair
+2H,2D,3C,AS,AH, Two Pair::You returned: Pair
+2D,2H,3C,AH,AS, Two Pair::You returned: Pair
+2S,2H,3D,AS,AC, Two Pair::You returned: Pair
+2D,2H,3C,AS,AH, Two Pair::You returned: Pair
+discard incorrect: -25
+discard incorrect: -25
+score: 672.0
+total: 887.0
+percent: 75.76099210822998
